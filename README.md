@@ -35,11 +35,11 @@ Art and Assets
 - Hazard Systems: Developed a modular hazard script based on established "killzone" logic to streamline environmental danger.
 - General Scripting: Logic scripts were tuned and debugged in collaboration with AI tools to ensure optimal performance and clean code structures.
 
-## Build and Installation instructions
-- Clone the repository.
-- Open the project in Unity (ensure the New Input System package is installed).
-- The project includes pre-configured Build Settings. Navigate to File > Build Settings and select your target platform.
-- Select Build and Run.
+## How to Play
+- Go to the latest **[release](https://github.com/LeCloudy69/Parried/releases)**
+- Download the one for your platform if it is there
+- Extract the game out of the zip
+- Run the Parried-x.app or Parried-x.exe within to open and play
 
 ## Developer Retrospective
 - This project was a deep dive into 3D game architecture within a compressed timeline. One of the primary challenges was balancing the solo development of both assets and code. While the project was completed individually, the process highlighted the value of collaborative brainstorming in the 3D space. Future iterations would benefit from expanded peer-review sessions to further bolster creative mechanics and movement tuning.
@@ -48,3 +48,9 @@ Art and Assets
 - Endless mode: Scaling Health of enemies, number of enemies, and reduced enemy shooting cooldown.
 - Difficulty Option: Easy, Medium, or Hard that effects the game scaling. 
 
+## Installations for viewing and modifying the game
+- Clone the repository.
+- Make sure you have unity installed
+- Open the project in Unity (ensure the New Input System package is installed).
+- The project includes pre-configured Build Settings. Navigate to File > Build Settings and select your target platform.
+- Select Build and Run.
